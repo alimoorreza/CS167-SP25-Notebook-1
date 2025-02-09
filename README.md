@@ -38,7 +38,7 @@ The first step is to get the data loaded and ready to go, make sure the data is 
 6. **Do something cool**. Using the Pokemon dataset, get creative and show me something about the dataset. Use a text cell to explain what you did. 
  - *Need some help getting started here? Try asking a question about the dataset and see if you can use Python and Pandas to answer the question*
 
-Use a Markup cell to put your name at the top of the file. Submit this assignment through the CodePost link (find it on Blackboard).
+Use a Markup cell to put your name at the top of the file. Submit this assignment on __Blackboard__.
 
 ## :white_check_mark: Grading: 
 I will update the following rubric with your grade after you have completed the assignment.
